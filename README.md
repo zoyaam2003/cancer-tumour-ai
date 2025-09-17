@@ -20,9 +20,9 @@ Developed as part of an applied machine learning project, the study benchmarks c
 ## Project Structure
 ml_cancer_diagnosis/
 
-MachineLearningReport.ipynb : Code for machine learning project.
-AI Report.docx : Final written report including results, discussion, and ethical analysis
-README.md: Project overview and documentation
+- MachineLearningReport.ipynb : Code for machine learning project.
+- AI Report.docx : Final written report including results, discussion, and ethical analysis
+- README.md: Project overview and documentation
 
 ---
 
